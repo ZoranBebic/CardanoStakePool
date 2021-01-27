@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Crypto-verse stake pool for Cardano
 
-You can use the [editor on GitHub](https://github.com/ZoranBebic/CybertronStakePool/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://cardanostake.crypto-verse.net/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
