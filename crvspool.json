@@ -1,5 +1,5 @@
 {
-  "name": "Cryptoverse Stake Poola",
+  "name": "Cryptoverse Stake Pool",
   "description": "A SINGLETON Cardano stake pool",
   "ticker": "CRVS",
   "homepage": "https://cardanostake.crypto-verse.net"
