@@ -5,7 +5,7 @@ Cryptoverse stake pool is a _singleton_ Cardano pool dedicated to only ever host
 ### The Goal
 
 Maintain a reliable pool for staking and providing the core capability within Cardano distributed network. 
-* never cluster on popular cloud providers as that defies decentralization if everyone only sits within 200 different datacenters
+* utilize popular and well established cloud datacenters with highest level of security
 * opereate transparently and maintain one single pool
 * keep fees as low as possible only to cover operating costs
 
